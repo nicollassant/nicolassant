@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Gênero</title>
+</head>
+<body>
+    <form method="POST" action="Processa_cad_genero.php">
+    Gênero: <input type="text" name="txtGenero"><br><br><br><br>
+
+    <input type="submit" value="Cadastrar">
+</form>
+
+</body>
+</html>
